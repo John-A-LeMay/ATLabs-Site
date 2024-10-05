@@ -1,3 +1,3 @@
 # ATLabs-Site
 
-[<img src="refs/heads/main/images/ATLCat.png">]
+![ATLCat](/images/ATLCat.png)
