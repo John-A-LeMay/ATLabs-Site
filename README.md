@@ -6,4 +6,6 @@ This repo has two branches:
 
 Enjoy!
 
+This is maintained by John LeMay
+
 ![ATLCat](/images/ATLCat.png)
